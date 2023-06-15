@@ -2224,7 +2224,7 @@ The Logarex LK13BE803039 does publish the data automatically. Do not poll this c
     ```
 
 ### Logarex LK13BE803319 (OBIS)
-setupline for the  HichiIR WiFi module (GPIO1: send, GPIO3: receive)
+setupline for the  HichiIR WiFi module (GPIO3: receive)
 ??? summary "View script"
     ```
     >D
@@ -2232,7 +2232,7 @@ setupline for the  HichiIR WiFi module (GPIO1: send, GPIO3: receive)
     =>sensor53 r
     >M 1
     ; setupline
-    +1,3,o,0,9600,LK13BE,1,30,2F3F210D0A,063035310D0A
+    +1,3,o,0,9600,LK13BE
     ; available without PIN, remove the semicolon the enable some optional values
     ; only one string (@#) can be decoded per meter
     1,1-0:96.1.0*255(@#),Zählernummer,,id,0
