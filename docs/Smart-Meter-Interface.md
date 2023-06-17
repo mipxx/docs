@@ -2249,9 +2249,9 @@ setupline for the  HichiIR WiFi module (GPIO3: receive)
     1,1-0:32.7.0*255(@1,Spannung L1,V,voltage_l1,1
     1,1-0:52.7.0*255(@1,Spannung L2,V,voltage_l2,1
     1,1-0:72.7.0*255(@1,Spannung L3,V,voltage_l3,1
-    1,1-0:31.7.0*255(@1,Strom L1,A, amperage_l1,1
-    1,1-0:51.7.0*255(@1,Strom L2,A, amperage_l2,1
-    1,1-0:71.7.0*255(@1,Strom L3,A, amperage_l3,1
+    1,1-0:31.7.0*255(@1,Strom L1,A,amperage_l1,1
+    1,1-0:51.7.0*255(@1,Strom L2,A,amperage_l2,1
+    1,1-0:71.7.0*255(@1,Strom L3,A,amperage_l3,1
     1,1-0:81.7.1*255(@1,UL2 zu UL1,deg,angle_ul2_ul1,0
     1,1-0:81.7.2*255(@1,UL3 zu UL1,deg,angle_ul3_ul1,0
     1,1-0:81.7.4*255(@1,IL1 zu UL1,deg,angle_il1_ul1,0
